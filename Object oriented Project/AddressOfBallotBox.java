@@ -1,4 +1,4 @@
-package id314967472_id207726563;
+package p1;
 //Helping class for defined the address of a ballotBox
 public class AddressOfBallotBox {
 	protected String city;
