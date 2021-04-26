@@ -1,4 +1,4 @@
-package id314967472_id207726563;
+package p1;
 
 import java.util.Arrays;
 import java.util.Random;
