@@ -1,13 +1,13 @@
-package id314967472_id207726563;
+package p1;
 
 import java.util.Scanner;
 
-import id314967472_id207726563.Party.espectrum;
+import p1.Party.espectrum;
 
 /*
- * Name:Saar Amikam ID:314967472 HomeWorkNumber:1
+ * Name:Saar Amikam HomeWorkNumber:1
  * 
- * Name:Shay Gabison ID:207726563 HomeWorkNumber:1
+ * Name:Shay Gabison  HomeWorkNumber:1
  *
  * Menu of 9 option representing by switch. every case have a Detailed
  * documentation. Enjoy.
