@@ -1,7 +1,6 @@
 package application;
 
 /*
-* HomeWork3 : ID_314967472 , ID_207726563
 *
 *Election program representing by Javafx interface .
 *
